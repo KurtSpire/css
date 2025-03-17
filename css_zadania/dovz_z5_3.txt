@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title>Styl wewnętrzny</title>
+	<!--wewnętrzny-->
+	<meta charset="UTF-8">
+	
+	<style>
+	p  { 
+		color:    red; 
+		font-size:  52px; 
+       } 
+	</style>
+	<!--30.01.2025 Dovzhyk-->
+</head>
+
+<body bgcolor="silver"> 
+	<p>Dovzhyk</p>
+	<p>Programowanie komputerów – proces tworzenia programu komputerowego, który ma realizować określone zadania zdefiniowane w języku programowania.</p>
+</body>
+
+</html>

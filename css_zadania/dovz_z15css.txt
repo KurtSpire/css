@@ -1,0 +1,9 @@
+body{
+	color: rgb(50%,35%,79%);
+	font-size:30pt;
+}
+
+p{
+	color:#66985A;
+	font-size:20pt;
+}

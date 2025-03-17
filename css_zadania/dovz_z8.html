@@ -1,0 +1,42 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<style>
+		font{font-family:Arial;}
+	</style>
+</head>
+
+<body>
+	<center><h1>Wewnętrzny arkusz stylów</h1></center>
+	<ol>
+		<h1><li>gdzie jest wstawiany<br></li></h1><!--1-->
+		<font>Wstawia się zawsze w części nagłówkowej dokumentu (pomiędzy znacznikami <&nbsp;head&nbsp;> a <&nbsp;/head&nbsp;>). Można go zastosować, gdy elementy które pragniemy poddać formatowaniu, występują wielokrotnie na stronie i wszystkim chcemy nadać takie same atrybuty (inne niż domyślne).</font>
+		
+		<h1><li>składnia teoretyczna (w ramce, konieczne wcięcia),<br></li></h1> <!--2-->
+		<font>
+			<&nbsp;head&nbsp;><br>
+			(...)<br>
+			<&nbsp;style type="text/css"&nbsp;><br>
+			selektor1 { cecha: wartość; cecha2: wartość2... }<br>
+			selektor2 { cecha: wartość; cecha2: wartość2... }<br>
+			(...)<br>
+			<&nbsp;/style&nbsp;><br>
+			(...)<br>
+			<&nbsp;/head&nbsp;><br><br>
+			gdzie: w sposób wyróżniony (pogrubieniem) zaznaczono elementy składowe wewnętrznego arkusza stylów. Natomiast w miejsce kropek (...) można wpisać dalsze polecenia.
+		</font>
+		
+		<h1><li>jakie mogą być selektory,<br></li></h1> <!--3-->
+		<font><b>Selektorem</b> może być praktycznie dowolny znacznik, np. p (akapit), h1 (tytuł), td (komórka tabeli) i inne. To właśnie elementom, które znajdują się w kodzie źródłowym, pomiędzy tymi znacznikami, nadajemy atrybuty formatowania opisane w arkuszu.
+		</font>
+		
+		<h1><li>jakie mogą być cechy i wartości.<br></li></h1> <!--4-->
+		<font>Jako <b>"cecha"</b> (w deklaracji stylu - powyżej) należy wpisać o jakie konkretnie atrybuty formatowania nam chodzi (opisane w kolejnych rozdziałach).<br><br>
+		Natomiast jako wyraz <b>"wartość"</b> wpisujemy dokładną wartość atrybutu.<br>
+		Zwróć uwagę, że jednemu selektorowi możemy nadać kilka atrybutów (cech). Są one wtedy rozdzielone średnikami.
+		</font>
+	
+	</ol>
+</body>
+
+</html>

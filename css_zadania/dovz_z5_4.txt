@@ -1,0 +1,14 @@
+<html>
+<head>
+	<title>Styl liniowy</title>
+	<!--liniowy-->
+	<meta charset="UTF-8">
+	<!--11.01.2025 Dovzhyk-->
+</head>
+
+<body bgcolor="silver"> 
+	<p style="color: red;font-size: 50 px;">Dovzhyk</p>
+	<p style="color: red;font-size: 50 px;">Programowanie komputerów – proces tworzenia programu komputerowego, który ma realizować określone zadania zdefiniowane w języku programowania.</p>
+</body>
+
+</html>

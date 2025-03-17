@@ -1,0 +1,19 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	
+	<style type="text/css">
+	 @import url("dovz_z6.css");
+	</style>
+</head>
+
+<body>
+	<p>:) - uśmiechnięta buźka</p>
+	:] - twarz zawartości
+	<p>^_^ - Nerdie Poundie</p>
+	XD - śmiejący się przez łzy
+	<p><3 - serce</p>
+	o_o - zasłaniana twarz
+</body>
+
+</html>
