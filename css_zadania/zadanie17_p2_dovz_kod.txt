@@ -32,6 +32,3 @@ To jest zwykły tekst, ale tylko wewnątrz DIV - dlatego nie jest czerwony, ale 
 </body>
 </html>
 <!--Dovzhyk Dmytro-->"
-</font>
-</body>
-</html>
