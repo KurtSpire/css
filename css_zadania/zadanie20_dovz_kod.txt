@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+</head>
+<body>
+<div style="background-color: #FFFDD0; width: 100%; height: 40%;">
+	<p style="background-color: orange; font-size: 20pt; font-family: Arial;">
+	P jest kolorem pomarańczowym<br>
+	wielkością 20 punktów<br>
+	i czcionką Arial<br>
+	Hardware – zbiór wszystkich urządzeń komputerowych, czyli sprzęt komputerowy.
+	</p>
+</div>
+
+<div style="background-color: #ff00ff; width: 80%; height: 15%;">
+	<p>
+		<i style="color: green; font-size: 20pt;">
+		<b>I jest pogrubione</b>
+		</i>
+	</p>
+	<p>
+	<strike style="color: red; font-size: 20pt;">Strike jest przekreślone</strike>
+	</p>
+	<p>
+	<u style="color: red; font-size: 20pt; text-decoration: overline;">U ma nadkreślenie <br>Software– zbiór programów zainstalowanych na twardym dysku.</u>
+	</p>
+</div>
+
+<div style="background-color: #c0d727; width: 100%; height: 30%;">
+	<h1 style="color: blue; font-size: 30pt; text-decoration: underline;">Nagłówek poziomu 1.jest podkreślony <br>System komputerowy = Hardware + Software</h1>
+	<ol>
+		<li style="color: blue; font-size: 25pt;">Punkt pierwszy Bit (b) to najmniejsza ilość informacji, która przyjmuje jedną z dwóch wartości 0 lub 1.</li>
+		<li style="color: red; font-size: 20pt;">Punkt drugi Bajt (B) to jednostka informacji składająca się z 8 bitów.</li>
+		<li style="color: grey; font-size: 15pt;">Punkt trzeci Kilobajt (kB) to jednostka równa 1024 bajtom (1kB = 210 B).</li>
+	</ol>
+</div>
+</body>
+</html>
+<!--Dovzhyk Dmytro-->
