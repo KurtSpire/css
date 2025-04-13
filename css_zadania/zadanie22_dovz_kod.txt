@@ -12,7 +12,7 @@
 	Postęp w informatyce zmienił świat nie do poznania.
 	</p>
 
-	<p id="gruby_Dozvhyk">Dovzhyk<br>
+	<p id="gruby_Dovzhyk">Dovzhyk<br>
 	Sztuczna inteligencja to dziedzina informatyki, która rozwija się bardzo szybko.
 	Jej zadaniem jest tworzenie systemów, które potrafią uczyć się i podejmować decyzje.
 	Wykorzystuje się ją w medycynie, transporcie, a nawet w codziennych aplikacjach.
