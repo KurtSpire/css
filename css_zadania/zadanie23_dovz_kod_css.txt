@@ -1,0 +1,32 @@
+p#pogrubienie_Dovzhyk{
+font-size: 32px;
+color: #7F5ACA;
+}
+
+p#pochylona_Dovzhyk{
+font-size: 37pt;
+color: #E3BE66;
+}
+
+p#index_gorny_Dovzhyk{
+font-size: 1,2cm;
+color: #938C16;
+}
+
+p#index_dolny_Dovzhyk{
+font-size: 1,9cm;
+color: #2ff0de;
+}
+
+p#mono_Dovzhyk{
+font-size: 42px;
+color: #13dcb6;
+}
+
+p#powiekszenie_Dovzhyk{
+color: #4d3c98;
+}
+
+p#pomniejszenie_Dovzhyk{
+color: rgb(69%,55%,20%);
+}
