@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <style type="text/css">
+
+	h1{
+	width: 350pt; 
+	height: 2,5cm; 
+	border-color: rgb(0,0,204);
+	border-top-color: #000000; 
+	border-bottom-color: #808080;  
+	border-left-color: #FF0000; 
+	border-right-color:  #FF00FF ; 
+	border-style: dashed;
+	margin-left: 70%;
+	}
+	
+	h2{
+	font-size: 0.6cm;
+	width: 200pt; 
+	height: 3cm; 
+	border-color: #808080;  
+	border-style: groove;
+	margin-left: 40%;
+	}
+ </style>
+ <link rel="Stylesheet" type="text/css" href="zadanie34_dovz.css"/>
+</head>
+
+<body>
+
+<h1>Dovzhyk<br>
+	width: 350pt; 
+	height: 2,5cm; 
+	border-color: rgb(0,0,204);<br>
+	border-top-color: #000000; <br>
+	border-bottom-color: #808080; <br>
+	border-left-color: #FF0000; <br>
+	border-right-color: #FF00FF; <br>
+	border-style: dashed;
+</h1>
+
+<h2>
+	Dmytro<br>
+	width: 200pt; 
+	height: 3cm; 
+	border-color: #808080;  
+	border-style: groove;
+</h2>
+
+<h3>
+	nr. 7 2G1<br>
+	width: 400pt; 
+	height: 1,5cm; 
+	border-color: #800080;  
+	border-style: inset;
+</h3>
+
+</body>
+</html>
+<!--Dovzhyk Dmytro-->

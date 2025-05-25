@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<title>zadanie 36-nazwisko_ucznia</title>
+<meta charset="utf-8" />
+<style type="text/css">
+ body{
+ background-color: lightblue;
+ text-align : center;
+ margin : 50px;
+}
+div {
+ background : rgb(100,128,255);
+ width : 400px;
+ border : 3px black solid;
+ }
+h1 {
+ margin : 20px;
+ border : 1px solid black;
+ background : rgb(255,255,0);
+ border-top-style: dashed;
+ border-bottom-style: dotted;
+ border-right-style: double;
+ border-left-style: ridge;
+ }
+ h2 {
+ margin : 20px;
+ border : 4px solid black;
+ background : lightgreen;
+ border-top-color: red;
+ border-bottom-color: yellow;
+ border-right-color: purple;
+ border-left-color: white;
+ }
+ h3 {
+ margin : 20px;
+ border : 8px solid black;
+ background : pink;
+ }
+</style>
+</head>
+<body>
+<div><h1>h1</h1></div>
+<hr color=green width=70% size=5>
+<div><h2>h2</h2></div>
+<hr color=purple width=30% size=10>
+<div><h3>h3</h3></div>
+</body>
+</html>
+<!--Dovzhyk Dmytro-->
